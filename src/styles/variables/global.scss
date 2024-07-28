@@ -1,0 +1,10 @@
+$primary-font-family: "Inter", Helvetica, Arial, sans-serif;
+
+$font-size-m: 14px;
+$font-size-l: 18px;
+
+$font-line-height-m: 20px;
+$font-line-height-l: 28px;
+
+$font-m: normal #{$font-size-m} / #{$font-line-height-m} $primary-font-family;
+$font-l: normal #{$font-size-l} / #{$font-line-height-l} $primary-font-family;
